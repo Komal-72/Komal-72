@@ -54,14 +54,15 @@ What I Achieved: Measured key parameters (temperature, salinity, pH, DO) with hi
 How I Did It: Employed YSI ProDSS for precise in-situ measurements and developed optimized protocols for data collection and initial validation.
 
 Research & Publications
-~Authored 6+ peer-reviewed publications on vibrio ecology using geospatial modeling.
 
-~Presented research at AGU 2024 on vibrio detection using satellite data and geospatial data visualization.
+* Authored 6+ peer-reviewed publications on vibrio ecology using geospatial modeling.
+
+* Presented research at AGU 2024 on vibrio detection using satellite data and geospatial data visualization.
 
 Let's Connect!
 I'm actively seeking full-time opportunities in remote sensing, geospatial analytics, and/or climate tech roles where I can apply my skills to make a significant impact.
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/komalpreet--singh/)
+🔗 [Connect with me on LinkedIn (https://www.linkedin.com/in/komalpreet--singh/)]
 
 📧 Reach out via Email
 singhkp083@gmail.com
